@@ -1,24 +1,20 @@
-# my-project
+# news-electron
 
-> An electron-vue project
+# Electron桌面端新闻，使用的是网易云新闻API接口获取的新闻数据。
 
-#### Build Setup
+### 安装方式
+```
+//  使用git 克隆
+npm install 
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:9080
+//　安装好依赖之后直接运行
 npm run dev
 
-# build electron application for production
+//  打包
 npm run build
 
-# run unit & end-to-end tests
+//  测试
 npm test
-
-
-```
 
 ---
 
